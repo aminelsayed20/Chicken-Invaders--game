@@ -1,5 +1,6 @@
 # Chicken-Invaders-game
-I made this game when I was in ODC software engineering hackathon 2022
+I made this game when I was in ODC software engineering hackathon 2022,
+
 in this game, I used SFML library 
 with functional programming 
 
